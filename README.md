@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 [Live Demo here](https://anirban-breaking-bad-wikipedia.netlify.app/)
+Created with the Breaking Bad Api -  https://breakingbadapi.com/api/characters
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
