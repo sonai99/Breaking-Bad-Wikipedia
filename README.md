@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+As of 7/1/23
+*API UNRESPONSIVE*
+
 [Live Demo here](https://anirban-breaking-bad-wikipedia.netlify.app/)
 Created with the Breaking Bad Api -  https://breakingbadapi.com/api/characters
 
